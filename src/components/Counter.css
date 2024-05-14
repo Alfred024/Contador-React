@@ -1,0 +1,16 @@
+.Counter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: solid white 3px;
+    padding: 20px;
+    width: 400px;
+}
+.Counter-Info{
+    font-size: 30px;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
